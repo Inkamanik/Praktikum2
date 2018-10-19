@@ -89,4 +89,4 @@ using namespace std;
 
 ```
 
-hasilnya : [img](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/ss1.PNG)
+hasilnya : [img](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/ss1.PNG)# Praktikum2
