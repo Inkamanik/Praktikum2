@@ -13,7 +13,7 @@
 
 
 **Flowchart Program**
-![Flowchart] (https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/FLOWCHART1.jpg)
+![Flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/FLOWCHART1.jpg)
 
 **Code Program Lengkap:**
 ```c++
@@ -38,7 +38,7 @@ int main () {
     }
 }
 ```
-[img](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/ss.PNG)
+![img](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/ss.PNG)
 
 ## Latihan2.cpp : Program Menghitung Bilangan Terbesar dari 4 Bilangan
 
@@ -55,7 +55,7 @@ int main () {
 9. Dan jika kondisi **False** maka cetaklah **D**
 
 **flowchart program**
-[flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/FLOWCHARTLT2.jpg)
+![flowchart](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/FLOWCHARTLT2.jpg)
 
 **CODE PROGRAM**
 ```c++
@@ -89,4 +89,5 @@ using namespace std;
 
 ```
 
-hasilnya : [img](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/ss1.PNG)# Praktikum2
+hasilnya : 
+![img](https://raw.githubusercontent.com/Inkamanik/Praktikum2/master/ss1.PNG)# Praktikum2
